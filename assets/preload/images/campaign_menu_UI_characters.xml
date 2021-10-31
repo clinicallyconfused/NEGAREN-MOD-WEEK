@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png"><SubTexture name="BF idle dance white0000" x="0" y="0" width="396" height="397" frameX="0" frameY="0" frameWidth="396" frameHeight="397" />
+<SubTexture name="BF HEY!!0000" x="396" y="0" width="396" height="397" frameX="0" frameY="0" frameWidth="396" frameHeight="397" />
+<SubTexture name="GF Dancing Beat WHITE0000" x="0" y="397" width="703" height="638" frameX="0" frameY="0" frameWidth="703" frameHeight="638" />
+<SubTexture name="negaren idle black lines0000" x="703" y="397" width="430" height="761" frameX="0" frameY="0" frameWidth="430" frameHeight="761" />
+</TextureAtlas>
